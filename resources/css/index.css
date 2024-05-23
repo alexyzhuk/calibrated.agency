@@ -5,8 +5,10 @@
 }
 
 .mail img {
-    width: 2.4vw;
-    height: 2.4vw;
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    display: block;
 }
 
 .mail {
