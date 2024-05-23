@@ -1,0 +1,11 @@
+{
+    font-family: "IBM Plex Sans", sans-serif;
+}
+
+#welcome {
+    width: 33%;
+    min-width: 256px;
+    display: flex;
+    flex-shrink: 1;
+    margin: auto auto;
+}
