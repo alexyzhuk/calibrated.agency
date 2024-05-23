@@ -1,11 +1,12 @@
 .index-bg {
     background-color: #fff;
     height: 100vh;
+    margin-bottom: 48px;
 }
 
 h1 {
     font-family: "IBM Plex Sans";
-    font-size: 8vw;
+    font-size: 5.6vw;
     color: #213445;
     font-weight: 300;
     letter-spacing: -0.03em;
