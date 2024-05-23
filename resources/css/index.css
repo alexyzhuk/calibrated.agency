@@ -5,7 +5,12 @@
 }
 
 .mail img {
+    display: flex;
     height: 100%;
+}
+
+.mail {
+    margin-top: 2%;
 }
 
 h1 {
