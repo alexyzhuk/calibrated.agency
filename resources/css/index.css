@@ -4,12 +4,12 @@
 
 .index-bg {
     background-color: #fff;
-    height: 100%;
+    height: 100vh;
 }
 
 #welcome {
     width: 64%;
-    min-width: 256px;
+    min-width: 400px;
     display: flex;
     flex-shrink: 1;
     margin: auto auto;
