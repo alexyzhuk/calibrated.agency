@@ -2,8 +2,13 @@
     font-family: "IBM Plex Sans", sans-serif;
 }
 
+.index-bg {
+    background-color: url("../images/welcome-bg.png");
+    height: 100%;
+}
+
 #welcome {
-    width: 33%;
+    width: 64%;
     min-width: 256px;
     display: flex;
     flex-shrink: 1;
